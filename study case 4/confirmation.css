@@ -1,0 +1,29 @@
+ /* Style untuk container halaman konfirmasi pembayaran */
+ .confirmation-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style untuk pesan konfirmasi pada konfirmasi pembayaran */
+  .confirmation-message {
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  /* Style untuk informasi pesanan pada konfirmasi pembayaran */
+  .confirmation-order-info {
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-order-info label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .confirmation-order-info span {
+    font-weight: normal;
+  }

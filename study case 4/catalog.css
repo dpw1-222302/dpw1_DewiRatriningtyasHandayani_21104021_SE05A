@@ -1,0 +1,26 @@
+.product {
+	background-color: #f8f8f8;
+	padding: 20px;
+	margin-bottom: 20px;
+	display: flex;
+}
+.product img {
+	max-width: 200px;
+	margin-right: 20px;
+}
+.product h3 {
+	margin-bottom: 10px;
+}
+.product p {
+	margin-bottom: 10px;
+}
+.product .price {
+	font-size: 24px;
+	color: #f00;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}

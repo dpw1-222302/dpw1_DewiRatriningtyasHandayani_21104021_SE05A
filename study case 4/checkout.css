@@ -1,0 +1,55 @@
+ /* Style untuk form checkout pada cart */
+ .checkout-form {
+    margin-top: 20px;
+  }
+  
+  .checkout-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .checkout-form input[type="text"], .checkout-form input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .checkout-form input[type="submit"] {
+    display: block;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .checkout-form input[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
+  /* Style untuk container halaman checkout */
+  .checkout-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style untuk label pada checkout */
+  .checkout-label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  /* Style untuk total harga pada checkout */
+  .checkout-total {
+    margin-top: 20px;
+    text-align: right;
+    font-weight: bold;
+  }

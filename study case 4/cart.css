@@ -1,0 +1,54 @@
+/* Style untuk container halaman cart */
+.cart-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style untuk table produk pada cart */
+  .cart-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .cart-table th, .cart-table td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .cart-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .cart-table td {
+    vertical-align: middle;
+  }
+  
+  /* Style untuk tombol hapus pada cart */
+  .cart-delete-btn {
+    display: inline-block;
+    background-color: #dc3545;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cart-delete-btn:hover {
+    background-color: #c82333;
+  }
+  
+  /* Style untuk total harga pada cart */
+  .cart-total {
+    margin-top: 20px;
+    text-align: right;
+    font-weight: bold;
+  }
+  
+ 
+  
+ 
+  
